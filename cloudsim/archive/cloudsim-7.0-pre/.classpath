@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="src" path="modules/cloudsim/src/main/java"/>
+	<classpathentry kind="src" path="modules/cloudsim/src/test/java"/>
+	<classpathentry kind="src" path="modules/cloudsim-examples/src/main/java"/>
+	<classpathentry kind="lib" path="modules/cloudsim/target/cloudsim-7.0.0-alpha.jar"/>
+	<classpathentry kind="lib" path="modules/cloudsim-examples/target/cloudsim-examples-7.0.0-alpha.jar"/>
+	<classpathentry kind="output" path="modules/cloudsim/target/classes"/>
+</classpath>
